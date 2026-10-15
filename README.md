@@ -2,7 +2,7 @@
 
 > **Note:** This is the earlier version of the project (DistilBERT and a learned hybrid). It has been replaced by
 > **SciGenre**, a SPECTER2 classifier that reads only the title and abstract, used in *The Survey Dividend: How
-> Citation Metrics Reward Synthesis over Discovery* (A. Nighot, N. Afraz; under review). Code:
+> Citation Metrics Reward Synthesis over Discovery* (A. Nighot, N. Afraz; submitted to *Scientometrics*). Code:
 > [github.com/nimaafraz/scigenre](https://github.com/nimaafraz/scigenre) · Model:
 > [huggingface.co/nimaafraz/scigenre](https://huggingface.co/nimaafraz/scigenre). This repository is kept unchanged
 > so that the results of the earlier version stay reproducible.
